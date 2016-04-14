@@ -1,0 +1,58 @@
+! .Xdefault
+! https://github.com/dongminkim/vanity
+
+! Use bold text
+*VT100*enBolden: on
+*VT100*colorBDMode: off
+
+! Use underline text
+*VT100*underLine: on
+*VT100*colorULMode: off
+
+! Use colors
+*VT100*colorMode: on
+*VT100*dynamicColors: on
+
+! Default Colors
+*VT100*foreground: black
+*VT100*background: white
+
+! Color for bold text
+!*VT100*colorBD: #808AA0
+
+! Color for underline text
+!*VT100*colorUL: #D03040
+
+! ( 0) black
+*VT100*color0: #000000
+! ( 1) red
+*VT100*color1: #FF4040
+! ( 2) green
+*VT100*color2: #30C040
+! ( 3) yellow
+*VT100*color3: #C0A040
+! ( 4) blue
+*VT100*color4: #4040D0
+! ( 5) magenta
+*VT100*color5: #F040D0
+! ( 6) cyan
+*VT100*color6: #80B0B0
+! ( 7) white
+*VT100*color7: #E0E0E0
+! ( 8) gray
+*VT100*color8: #808080
+! ( 9) bright red
+*VT100*color9: #FF6060
+! (10) bright green
+*VT100*color10: #30D07A
+! (11) bright yellow
+*VT100*color11: #FFFF33
+! (12) bright blue
+*VT100*color12: #7777FF
+! (13) bright magenta
+*VT100*color13: #FFAAEE
+! (14) bright cyan
+*VT100*color14: #50CACA
+! (15) bright white
+*VT100*color15: #FFFFFF
+
