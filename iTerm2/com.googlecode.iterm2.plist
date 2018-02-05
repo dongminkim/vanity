@@ -1050,7 +1050,7 @@
 	<key>NSFontPanelAttributes</key>
 	<string>1, 0</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
-	<string>{712, 448}</string>
+	<string>{722, 448}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
 	<string>{712, 565}</string>
 	<key>NSNavPanelExpandedStateForSaveMode</key>
@@ -1111,13 +1111,13 @@
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>1082 966 400 129 0 0 2560 1417 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>972 768 620 392 0 0 2560 1417 </string>
+	<string>970 768 620 392 0 0 2560 1417 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>177 178 599 519 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>241 262 796 473 0 0 1440 877 </string>
+	<string>971 540 796 473 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>495 103 906 475 0 0 1440 877 </string>
+	<string>1536 284 1018 1133 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>241 402 906 475 0 0 1440 877 </string>
 	<key>NeverWarnAboutShortLivedSessions_27252955-52A5-4D40-9D79-8669D687A8E3</key>
@@ -1823,7 +1823,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/diego</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -2524,7 +2524,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/diego</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -3225,7 +3225,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/diego</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -3926,7 +3926,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/diego</string>
+			<string></string>
 		</dict>
 	</array>
 	<key>NoSyncConfirmBeta</key>
@@ -3937,6 +3937,10 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>C56D0147-1EC9-4028-8040-5DF341E1DC00</string>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -4015,7 +4019,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-29T07:51:28Z</date>
+	<date>2018-02-05T06:52:26Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -4063,6 +4067,6 @@
 	<key>findRegex_iTerm</key>
 	<true/>
 	<key>iTerm Version</key>
-	<string>3.1.2</string>
+	<string>3.1.5</string>
 </dict>
 </plist>
