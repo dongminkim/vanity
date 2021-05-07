@@ -1,6 +1,7 @@
 {
 "Profiles": [
 {
+  "Set Local Environment Vars" : true,
   "Working Directory" : "",
   "Prompt Before Closing 2" : 0,
   "Selected Text Color" : {
@@ -58,7 +59,7 @@
     "Red Component" : 0.75294119119644165,
     "Blue Component" : 0.25098040699958801
   },
-  "Use Non-ASCII Font" : false,
+  "Use Non-ASCII Font" : true,
   "Shortcut" : "",
   "Background Image Location" : "",
   "Bold Color" : {
@@ -372,6 +373,7 @@
     "Red Component" : 1,
     "Blue Component" : 1
   },
+  "Unicode Version" : 9,
   "Ansi 6 Color" : {
     "Green Component" : 0.69019609689712524,
     "Red Component" : 0.50196081399917603,
@@ -380,12 +382,12 @@
   "Transparency" : 0,
   "Initial Text" : "",
   "Background Color" : {
-    "Green Component" : 0.098039217293262482,
-    "Red Component" : 0.098039217293262482,
-    "Blue Component" : 0.098039217293262482
+    "Green Component" : 0.098039217293262454,
+    "Red Component" : 0.098039217293262454,
+    "Blue Component" : 0.098039217293262454
   },
   "Screen" : -1,
-  "Non Ascii Font" : "DejaVuSansMonoPowerline 11",
+  "Non Ascii Font" : "MesloLGS-NF-Regular 11",
   "Ansi 13 Color" : {
     "Green Component" : 0.66666668653488159,
     "Red Component" : 1,
@@ -393,13 +395,13 @@
   },
   "Columns" : 128,
   "Visual Bell" : true,
+  "ASCII Ligatures" : false,
   "Custom Directory" : "No",
   "Ansi 5 Color" : {
     "Green Component" : 0.25098040699958801,
     "Red Component" : 0.94117647409439087,
     "Blue Component" : 0.81568628549575806
-  },
-  "Set Local Environment Vars" : true
+  }
 },
 {
   "Working Directory" : "",
@@ -417,9 +419,9 @@
   },
   "Use Italic Font" : false,
   "Foreground Color" : {
-    "Green Component" : 0.098039217293262482,
-    "Red Component" : 0.098039217293262482,
-    "Blue Component" : 0.098039217293262482
+    "Green Component" : 0.098039217293262454,
+    "Red Component" : 0.098039217293262454,
+    "Blue Component" : 0.098039217293262454
   },
   "Right Option Key Sends" : 0,
   "Character Encoding" : 4,
@@ -459,7 +461,7 @@
     "Red Component" : 0.75294119119644165,
     "Blue Component" : 0.25098040699958801
   },
-  "Use Non-ASCII Font" : false,
+  "Use Non-ASCII Font" : true,
   "Shortcut" : "",
   "Background Image Location" : "",
   "Bold Color" : {
@@ -786,7 +788,7 @@
     "Blue Component" : 1
   },
   "Screen" : -1,
-  "Non Ascii Font" : "DejaVuSansMonoPowerline 11",
+  "Non Ascii Font" : "MesloLGS-NF-Regular 11",
   "Ansi 13 Color" : {
     "Green Component" : 0.66666668653488159,
     "Red Component" : 1,
