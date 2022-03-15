@@ -394,6 +394,7 @@
     "Blue Component" : 0.93333333730697632
   },
   "Columns" : 128,
+  "Unicode Normalization" : 1,
   "Visual Bell" : true,
   "ASCII Ligatures" : false,
   "Custom Directory" : "No",
@@ -795,6 +796,7 @@
     "Blue Component" : 0.93333333730697632
   },
   "Columns" : 128,
+  "Unicode Normalization" : 1,
   "Visual Bell" : true,
   "Custom Directory" : "No",
   "Ansi 5 Color" : {
